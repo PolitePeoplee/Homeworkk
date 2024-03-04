@@ -24,7 +24,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       - name: compilling
-        run: cd ./Homework__
+        run: cd Homeworkk/Homework__
       # Runs a single command using the runners shell
       - name: compilling
         run: g++ function.h function.cpp
