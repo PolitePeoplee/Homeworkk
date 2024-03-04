@@ -1,6 +1,5 @@
 ﻿#include <iostream>
 #include "function.h"
-#include <windows.h>
 #include <cassert>
 
 std::vector<int> map(std::vector<int> numbers, std::function<int(int)> fun)
