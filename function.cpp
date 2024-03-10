@@ -1,4 +1,4 @@
-pa﻿#include <iostream>
+#include <iostream>
 #include "function.h"
 #include <cassert>
 
